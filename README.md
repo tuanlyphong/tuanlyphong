@@ -28,12 +28,8 @@ I'm a passionate developer who loves to create and innovate. My interests includ
 Feel free to reach out to me via:
 
 - 📧 Email: [tuanphong366@gmail.com](mailto:tuanphong366@gmail.com)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 ---
 
-### 🌈 Fun Fact
 
-I love exploring new technologies and sharing my knowledge with others. Let's connect and build something amazing together!
 
