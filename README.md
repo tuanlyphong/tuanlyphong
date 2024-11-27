@@ -3,7 +3,7 @@
 ![Header Image](assets/thumb.jpg)
 
 ## 🌟 About Me
-I'm obsessed with creating useful yet beautiful things on the net, and I have more than enough tools and skills to do that. My interests include:
+I'm obsessed with creating useful yet beautiful things on the net, and I have more than enough tools and skills to do that. I can handle various tasks, including:
 
 - 💻 Web Development
 - 📱 Mobile App Development
