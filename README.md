@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**tuanlyphong/tuanlyphong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](https://via.placeholder.com/1200x300/007BFF/FFFFFF?text=Welcome+to+My+GitHub+Profile)
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who loves to create and innovate. My interests include:
+
+- 💻 Web Development
+- 📱 Mobile App Development
+- 🎮 Game Development
+- 🌐 Open Source Contributions
+
+## 🔧 Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-007BFF?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blue)
+
+## 📫 Get in Touch
+
+Feel free to reach out to me via:
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+---
+
+### 🌈 Fun Fact
+
+I love exploring new technologies and sharing my knowledge with others. Let's connect and build something amazing together!
+
