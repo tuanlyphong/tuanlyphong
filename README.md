@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Fu!
 
 ![Header Image](https://via.placeholder.com/1200x300/007BFF/FFFFFF?text=Welcome+to+My+GitHub+Profile)
 
@@ -21,13 +21,13 @@ I'm a passionate developer who loves to create and innovate. My interests includ
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blue)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanlyphong&show_icons=true&theme=blue)
 
 ## 📫 Get in Touch
 
 Feel free to reach out to me via:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [tuanphong366@gmail.com](mailto:tuanphong366@gmail.com)
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
