@@ -3,13 +3,14 @@
 ![Header Image](assets/thumb.jpg)
 
 ## 🌟 About Me
-
-I'm a passionate developer who loves to create and innovate. My interests include:
+I'm obsessed with creating useful yet beautiful things on the net, and I have more than enough tools and skills to do that. My interests include:
 
 - 💻 Web Development
 - 📱 Mobile App Development
 - 🎮 Game Development
 - 🌐 Open Source Contributions
+- 🤖 AI Development
+- 📡 Embedded IoT
 
 ## 🔧 Technologies & Tools
 
