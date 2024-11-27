@@ -30,6 +30,11 @@ Feel free to reach out to me via:
 
 - 📧 Email: [tuanphong366@gmail.com](mailto:tuanphong366@gmail.com)
 
+## 🌍 Language Translation
+
+Click the icon below to translate this page:
+
+[🌍 Translate](https://translate.google.com/?sl=auto&tl=es&u=https://github.com/yourusername/your-repo)
 ---
 
 
