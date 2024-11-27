@@ -1,12 +1,14 @@
 # 👋 Hello, I'm Fu!
 
-![Header Image](assets/thumb.jpg)
-
 <div style="text-align: center;">
     <a href="https://app.daily.dev/fuyuka">
         <img src="https://api.daily.dev/devcards/v2/jSCv1C93jQVikrgsdFY31.png?r=pwj&type=wide" width="652" alt="FUYUKA's Dev Card"/>
     </a>
 </div>
+
+![Header Image](assets/thumb.jpg)
+
+
 
 ## 🌟 About Me
 I'm obsessed with creating useful yet beautiful things on the net, and I have more than enough tools and skills to do that. I can handle various tasks, including:
