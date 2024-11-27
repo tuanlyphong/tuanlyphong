@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fu!
 
-![Header Image](https://via.placeholder.com/1200x300/007BFF/FFFFFF?text=Welcome+to+My+GitHub+Profile)
+![Header Image](assets/thumb.jpg)
 
 ## 🌟 About Me
 
